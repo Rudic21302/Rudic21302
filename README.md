@@ -41,9 +41,9 @@ I build things for the web, automate the repetitive, and document everything I l
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
-![Jovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudic21302&show_icons=true&hide_border=true&theme=default)
+![Jovan's contribution chart](https://ghchart.rshah.org/Rudic21302)
 
 ---
 
