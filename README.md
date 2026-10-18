@@ -1,56 +1,40 @@
-# Hey, I'm Jovan 👋
+# Jovan Rudić Vranić
 
-I'm a WordPress developer and IT student at the Faculty of Science and Mathematics, University of Novi Sad — currently diving deep into **AI integrations**, **automation workflows**, **AI image & video generation**, **Kotlin**, **Python**, and **Java**.
+Full-stack developer, Novi Sad / Subotica, Serbia. IT student, Faculty of Sciences, University of Novi Sad. I build complete production systems end-to-end — architecture, migration, and the admin tooling clients actually keep using after launch.
 
-I build things for the web, automate the repetitive, and document everything I learn along the way.
-
----
-
-## 🔧 What I work with
-
-**Core**
-`WordPress` `PHP` `HTML` `CSS` `JavaScript`
-
-**Currently learning**
-`Python` `Kotlin` `Java` `n8n` `AI APIs` `Automation Workflows`
-
-**Exploring**
-`AI Image Generation` `AI Video Generation` `LLM Integrations`
+Building [rudicdev.rs](https://rudicdev.rs) — portfolio and project log, WordPress + React (Gutenberg blocks, Interactivity API).
 
 ---
 
-## 🚀 What I'm up to
+## What I actually build
 
-- 🛠️ Building WordPress sites and custom plugins with 2+ years of hands-on experience
-- 🤖 Integrating AI tools into real workflows
-- 📚 Studying Information Technology — algorithms, scripting, data structures
-- 📱 Learning Android development with Kotlin
-- 🎥 Creating educational content about development and AI
+**[excellence.rs](https://excellence.rs)** — complete rebuild of a 10+ year old PHP/OpenCart interior-decor retailer (flooring, tiling, wallpaper). Sole developer and client-facing consultant, Oct 2025 – Mar 2026.
+- Custom WordPress theme (ACF + PHP), one universal page template covering every page type, fully backend-editable
+- Migrated 700+ products off an unstructured legacy database via a custom CSV pipeline with conditional field logic — verified per category, **zero data loss**
+- Preserved a decade of organic SEO through the migration with **zero downtime** — patched the legacy PHP 5 site to PHP 8 to bridge an externally forced hosting deadline
+- 3 relationship-linked custom post types (FAQ, specs, manual) instead of repeater fields; custom WooCommerce archive template that only renders sections with real data
+- Post-launch dashboard iteration driven by actual client usage: Quick Edit fields, scheduled category sales, soft-hide for products
 
----
+**ocarini.rs** — single-sprint rebuild, Dec 2025. Read the client's conversion funnel and user types first, then built structure and copy pacing around that.
 
-## 📌 Featured projects
+**avask.com / braingood.eu** — team-context frontend work, May 2024 – Aug 2025. Responsive content blocks engineered to hold up under real, non-technical content-editor input.
 
-| Project | Stack | Description |
-|---|---|---|
-| [VoronojTaxi](https://github.com/Rudic21302/VoronojTaxi) | Python | Voronoi diagram-based taxi zone simulation for Novi Sad |
-| [Cinema Management](https://github.com/Rudic21302/cinema-managment-2025) | Python | CLI cinema management system — OOP, file I/O, statistics |
-| [SkillUp2024](https://github.com/Rudic21302/SkillUp2024) | HTML/PHP/CSS | Multi-page web project built during a skills competition |
-| [YOUTH4IMPACT](https://github.com/Rudic21302/YOUTH4IMPACT1) | SCSS | Frontend for a youth impact platform |
-| [maturskiIT](https://github.com/Rudic21302/maturskiIT) | HTML | Final IT exam project |
+**[VoronojTaxi](https://github.com/Rudic21302/VoronojTaxi)** — university seminar project applying Voronoi diagrams to taxi dispatch optimization. Python, SciPy/NumPy, KD-tree nearest-neighbor search (O(log n) vs. naive O(n)), a from-scratch finite-polygon reconstruction plus Sutherland-Hodgman polygon clipping implementation. Documented the model's real limitation (static vehicle availability) and a concrete path to a spatio-temporal version.
 
 ---
 
-## 📊 GitHub activity
+## Stack
+
+`WordPress` `PHP` `ACF` `WooCommerce` `JavaScript` `Python` `NumPy` `SciPy` `HTML/CSS`
+Currently building out: `React` (Gutenberg block authoring) · `Tailwind CSS v4` · `Vite`
+
+---
+
+## Looking for
+
+A developer role or client work where I own real production systems, not demo-scale builds.
+
+- [jovanrudic417@gmail.com](mailto:jovanrudic417@gmail.com)
+- [rudicdev.rs](https://rudicdev.rs)
 
 ![Jovan's contribution chart](https://ghchart.rshah.org/Rudic21302)
-
----
-
-## 📬 Let's connect
-
-I'm open to freelance WordPress work, collaborations, and conversations about AI and automation.
-
-- 🌐 Portfolio — *coming soon*
-- 📧 [jovanrudic417@gmail.com](mailto:jovanrudic417@gmail.com)
-- 💼 [jovan@studioagnis.com](mailto:jovan@studioagnis.com)
