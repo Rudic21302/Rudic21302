@@ -34,7 +34,7 @@ Currently building out: `React` (Gutenberg block authoring) · `Tailwind CSS v4`
 
 A developer role or client work where I own real production systems, not demo-scale builds.
 
-- [jovanrudic417@gmail.com](mailto:info@jovanrudic.com)
-- [rudicdev.rs](https://jovanrudic.com)
+- [info@jovanrudic.com](mailto:info@jovanrudic.com)
+  [jovanrudic.com](https://jovanrudic.com)
 
 
