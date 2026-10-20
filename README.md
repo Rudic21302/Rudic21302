@@ -2,7 +2,7 @@
 
 Full-stack developer, Novi Sad / Subotica, Serbia. IT student, Faculty of Sciences, University of Novi Sad. I build complete production systems end-to-end — architecture, migration, and the admin tooling clients actually keep using after launch.
 
-Building [rudicdev.rs](https://rudicdev.rs) — portfolio and project log, WordPress + React (Gutenberg blocks, Interactivity API).
+Building [jovanrudic.com](https://jovanrudic.com) — portfolio and project log, WordPress + React (Gutenberg blocks, Interactivity API).
 
 ---
 
@@ -34,7 +34,7 @@ Currently building out: `React` (Gutenberg block authoring) · `Tailwind CSS v4`
 
 A developer role or client work where I own real production systems, not demo-scale builds.
 
-- [jovanrudic417@gmail.com](mailto:jovanrudic417@gmail.com)
-- [rudicdev.rs](https://rudicdev.rs)
+- [jovanrudic417@gmail.com](mailto:info@jovanrudic.com)
+- [rudicdev.rs](https://jovanrudic.com)
 
-![Jovan's contribution chart](https://ghchart.rshah.org/Rudic21302)
+
